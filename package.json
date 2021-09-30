@@ -1,0 +1,15 @@
+{
+  "name": "original-cottages",
+  "version": "1.0.0",
+  "description": "automation tests for https://www.originalcottages.co.uk/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Ezgi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}
